@@ -1,0 +1,8 @@
+# Stupid osx files
+.DS_STORE
+
+# Should be installed through npm
+node_modules/**/*
+
+# Run gulp to build this
+# dist/**/*

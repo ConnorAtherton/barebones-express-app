@@ -1,0 +1,1 @@
+!function(){"use strict";console.log("it's working")}(window,document,jQuery);
